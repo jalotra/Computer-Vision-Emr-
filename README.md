@@ -20,8 +20,8 @@ The course is originally given by Joseph Redmon who goes with the username Pjred
 
 
 # WEEK 1 DETAILS
-**START DATE : DEC 23, 2019**\
-**END DATE : DEC 30, 2019**\   
+**START DATE : DEC 23, 2019**<br />
+**END DATE : DEC 30, 2019**  
 Go to this course webpage: [Link](https://pjreddie.com/courses/computer-vision/)\
 ### Video Lectures to go through
 1. Lecture 1 : *INTRODUCTION*
@@ -33,8 +33,8 @@ Go to this course webpage: [Link](https://pjreddie.com/courses/computer-vision/)
 2. And by the end of this course what you will have is your custom made IMAGE PROCESSING LIBRARY.
 
 **ASSIGNMENT**\
-[Link](https://docs.google.com/document/d/17XT1upUOsIYfTNb7nglv5Xjw7iSjTKXlmRZxGxB3TZU/edit?usp=sharing)\
-SOME MORE WORK WILL BE GIVEN BY ME\
+[Link](https://docs.google.com/document/d/17XT1upUOsIYfTNb7nglv5Xjw7iSjTKXlmRZxGxB3TZU/edit?usp=sharing)
+SOME MORE WORK WILL BE GIVEN BY ME
 
 
 
