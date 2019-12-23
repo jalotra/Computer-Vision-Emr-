@@ -1,6 +1,5 @@
 # What the course is all about?
-We will be dealing with images and learning how to manipulate them initially and alongwith all the 
-maths that will go in learning them. Also we will be seeing when to use them after 7 weeks with different use cases.
+We will be dealing with images and learning how to manipulate them in a bottom up manner that is alongwith all the maths. Also we will be seeing when to use them with some projects after 7 weeks with different use cases.
 
 ## What will be the course outcomes?
 1. You will be creating your own personal image processing library.
