@@ -27,8 +27,8 @@ Go to this course webpage: [PJREDDIE_COURSE_HOMEPAGE](https://pjreddie.com/cours
 2. Lecture 2 : *HUMAN VISION, COLOR SPACES, TRANSFORMS*
 
 ### Work to do
-1. Install this package : [Link](https://github.com/jalotra/Image_Processing_Starter_Package)
-2. You will be writing all the modules for different Weeks in this package.
+1. Copy or clone (-- Whatever you like!!) this github repository : [Link](https://github.com/jalotra/Week1HW)
+2. You will be writing all the modules for different Weeks in this repository.
 2. And by the end of this course what you will have is your custom made IMAGE PROCESSING LIBRARY.
 
 **ASSIGNMENT**\
