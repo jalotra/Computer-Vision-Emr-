@@ -31,7 +31,7 @@ Go to this course webpage: [PJREDDIE_COURSE_HOMEPAGE](https://pjreddie.com/cours
 2. You will be writing all the modules for different Weeks in this repository.
 2. And by the end of this course what you will have is your custom made IMAGE PROCESSING LIBRARY.
 
-**ASSIGNMENT**\
+**ASSIGNMENT**
 [WEEK1_ASSIGNMENT](https://docs.google.com/document/d/17XT1upUOsIYfTNb7nglv5Xjw7iSjTKXlmRZxGxB3TZU/edit?usp=sharing)<br />
 SOME MORE WORK WILL BE GIVEN BY ME<br />
 
